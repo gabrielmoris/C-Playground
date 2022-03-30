@@ -1,0 +1,15 @@
+C:\Users\gabri\projects\CHelloWord\bin\Debug\net6.0\CHelloWord.exe
+C:\Users\gabri\projects\CHelloWord\bin\Debug\net6.0\CHelloWord.deps.json
+C:\Users\gabri\projects\CHelloWord\bin\Debug\net6.0\CHelloWord.runtimeconfig.json
+C:\Users\gabri\projects\CHelloWord\bin\Debug\net6.0\CHelloWord.dll
+C:\Users\gabri\projects\CHelloWord\bin\Debug\net6.0\CHelloWord.pdb
+C:\Users\gabri\projects\CHelloWord\obj\Debug\net6.0\CHelloWord.csproj.AssemblyReference.cache
+C:\Users\gabri\projects\CHelloWord\obj\Debug\net6.0\CHelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\projects\CHelloWord\obj\Debug\net6.0\CHelloWord.AssemblyInfoInputs.cache
+C:\Users\gabri\projects\CHelloWord\obj\Debug\net6.0\CHelloWord.AssemblyInfo.cs
+C:\Users\gabri\projects\CHelloWord\obj\Debug\net6.0\CHelloWord.csproj.CoreCompileInputs.cache
+C:\Users\gabri\projects\CHelloWord\obj\Debug\net6.0\CHelloWord.dll
+C:\Users\gabri\projects\CHelloWord\obj\Debug\net6.0\refint\CHelloWord.dll
+C:\Users\gabri\projects\CHelloWord\obj\Debug\net6.0\CHelloWord.pdb
+C:\Users\gabri\projects\CHelloWord\obj\Debug\net6.0\CHelloWord.genruntimeconfig.cache
+C:\Users\gabri\projects\CHelloWord\obj\Debug\net6.0\ref\CHelloWord.dll
